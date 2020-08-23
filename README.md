@@ -37,7 +37,8 @@ cuda-gdb##查看cuda版本
 
 hzhu02@z55 k210 cuda 9.2
 
-https://github.com/zhuhui-in/pucture/blob/master/image-20200818090633262.png![图片3](README.assets/%E5%9B%BE%E7%89%873.png)
+https://github.com/zhuhui-in/pucture/blob/master/image-20200818090633262.png
+![图片3](README.assets/%E5%9B%BE%E7%89%873.png)
 
 ## 安装torchani
 
